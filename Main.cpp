@@ -75,7 +75,7 @@ int main()
 	glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
 
 
-	GLFWwindow* window = glfwCreateWindow(width, height, "Lesson20", NULL, NULL);
+	GLFWwindow* window = glfwCreateWindow(width, height, "Lesson21", NULL, NULL);
 
 	if (window == NULL)
 	{
