@@ -75,5 +75,8 @@
     <Image Include="test.jpg">
       <Filter>Файлы ресурсов\Textures</Filter>
     </Image>
+    <Image Include="..\..\Загрузки\brick.png">
+      <Filter>Файлы ресурсов\Textures</Filter>
+    </Image>
   </ItemGroup>
 </Project>
